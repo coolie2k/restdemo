@@ -2,8 +2,8 @@
 
 Use Spring Boot to build up Spring MVC based REST backend application, with Spring Security and Spring Data JPA and MySQL.
 
--Spring Security
--Spring Boot
+- Spring Security
+- Spring Boot
 -Spring Data JPA
 -Maven
 -MySQL
